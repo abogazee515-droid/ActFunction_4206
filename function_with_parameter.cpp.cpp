@@ -4,7 +4,7 @@
 #include <iostream>
 using namespace std;
 
-// Function to  calculate rectangle area
+// Function to calculate rectangle area
 int rectangleArea(int length, int width)
 {
     return length * width;
@@ -33,6 +33,7 @@ int main()
 
     return 0;
 }
+
 
 
 
