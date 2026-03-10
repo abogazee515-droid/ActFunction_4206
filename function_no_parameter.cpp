@@ -20,7 +20,7 @@ int rectangleArea()
 {
     return length * width;
 }
-
+// Function to display result
 void output()
 {
     cout << "The area is: " << rectangleArea();
@@ -32,6 +32,7 @@ int main()
     output();
 
 }
+
 
 
 
