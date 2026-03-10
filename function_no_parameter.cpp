@@ -25,13 +25,14 @@ void output()
 {
     cout << "The area is: " << rectangleArea();
 }
-
+// Main function
 int main()
 {
     input();
     output();
 
 }
+
 
 
 
