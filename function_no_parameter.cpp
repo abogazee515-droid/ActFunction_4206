@@ -11,7 +11,7 @@ void input()
     // Ask user to enter rectangle length
     cout << "Enter length: ";
     cin >> length;
-
+// Ask user to enter rectangle width
     cout << "Enter width: ";
     cin >> width;
 }
@@ -32,6 +32,7 @@ int main()
     output();
 
 }
+
 
 
 
