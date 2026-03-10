@@ -9,7 +9,7 @@ int length, width;
 void input()
 { 
     // Ask user to enter rectangle length
-    cout << "Enter length: ";
+    cout << " Enter length: ";
     cin >> length;
 // Ask user to enter rectangle width
     cout << " Enter width: ";
@@ -32,6 +32,7 @@ int main()
     output();
 
 }
+
 
 
 
