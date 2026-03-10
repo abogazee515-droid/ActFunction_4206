@@ -20,7 +20,7 @@ int main()
 {
     int length, width;
 
-    // Input from user
+    //  Input from user
     cout << "Enter length: ";
     cin >> length;
 
@@ -33,4 +33,5 @@ int main()
 
     return 0;
 }
+
 
