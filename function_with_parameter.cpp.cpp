@@ -10,7 +10,7 @@ int rectangleArea(int length, int width)
     return length * width;
 }
 
-// Function to calculate rectangle perimeter
+// Function to  calculate rectangle perimeter
 int rectanglePerimeter(int length, int width)
 {
     return 2 * (length + width);
@@ -33,3 +33,4 @@ int main()
 
     return 0;
 }
+
