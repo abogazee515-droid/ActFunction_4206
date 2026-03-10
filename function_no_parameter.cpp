@@ -3,7 +3,7 @@
 #include <iostream>
 using namespace std;
 
-
+// Variables for rectangle dimensions
 int length, width;
 
 void input()
@@ -32,5 +32,6 @@ int main()
     output();
 
 }
+
 
 
