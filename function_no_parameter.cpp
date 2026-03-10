@@ -7,6 +7,7 @@ using namespace std;
 int length, width;
 //function to enter the rectangle dimensions
 void input()
+
 { 
     // Ask user to enter rectangle length
     cout << " Enter length: ";
@@ -32,6 +33,7 @@ int main()
     output();
 
 }
+
 
 
 
